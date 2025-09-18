@@ -1,0 +1,71 @@
+🟢 Niveau Débutant (3 exercices)
+Exercice 1 : Déclarer et afficher
+
+Déclare une variable nom avec ton prénom et affiche-la dans la console.
+👉 Indice : utilise console.log().
+
+Exercice 2 : Addition simple
+
+Crée deux variables a = 10 et b = 5, additionne-les dans une troisième variable resultat puis affiche le résultat.
+
+Exercice 3 : Changer la valeur
+
+Crée une variable compteur avec la valeur 0.
+Ajoute 1 trois fois (sans boucle), puis affiche sa valeur finale.
+
+🟡 Niveau Intermédiaire (4 exercices)
+Exercice 4 : Concaténation
+
+Crée deux variables prenom = "Alice" et age = 20.
+Affiche dans la console :
+
+Bonjour, je m'appelle Alice et j'ai 20 ans.
+
+
+👉 Indice : utilise les template strings (backticks `).
+
+Exercice 5 : Aire d’un rectangle
+
+Crée deux variables longueur = 10 et largeur = 5.
+Calcule l’aire (longueur * largeur) et affiche-la.
+
+Exercice 6 : Échange de valeurs
+
+Crée deux variables x = 5 et y = 10.
+Échange leurs valeurs sans réécrire directement x = 10 et y = 5.
+👉 Indice : utilise une variable temporaire.
+
+Exercice 7 : Conversion en euros
+
+Crée une variable dollars = 50.
+Convertis-la en euros avec le taux 1$ = 0.92€.
+Affiche le résultat avec 2 décimales.
+👉 Indice : toFixed(2).
+
+🔴 Niveau Expert (3 exercices)
+Exercice 8 : Variables dynamiques
+
+Demande à l’utilisateur (via prompt) son prénom et son âge.
+Stocke-les dans des variables et affiche :
+
+Salut <prenom>, tu as <age> ans !
+
+Exercice 9 : Utilisation de const vs let
+
+Déclare une constante PI = 3.14159.
+Essaie de la modifier et observe l’erreur.
+Puis fais la même chose avec let pour voir la différence.
+
+Exercice 10 : Opérations combinées
+
+Crée une variable score = 0.
+
+Ajoute 10 points
+
+Multiplie le score par 2
+
+Soustrais 5
+
+Affiche le résultat final
+
+👉 Objectif : comprendre l’importance des opérateurs combinés (+=, *=, -=).

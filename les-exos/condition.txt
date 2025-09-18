@@ -1,0 +1,83 @@
+🟢 Niveau Débutant (3 exercices)
+Exercice 1 : Pair ou impair
+
+Demande un nombre à l’utilisateur avec prompt.
+Si le nombre est pair, affiche "Pair", sinon affiche "Impair".
+
+Exercice 2 : Majeur ou mineur
+
+Demande l’âge de l’utilisateur.
+
+Si l’âge est supérieur ou égal à 18 → affiche "Tu es majeur".
+
+Sinon → affiche "Tu es mineur".
+
+Exercice 3 : Comparaison simple
+
+Crée deux variables a et b.
+
+Si a est plus grand que b, affiche "a est plus grand".
+
+Sinon si b est plus grand, affiche "b est plus grand".
+
+Sinon affiche "Ils sont égaux".
+
+🟡 Niveau Intermédiaire (4 exercices)
+Exercice 4 : Devine le mot secret
+
+Demande à l’utilisateur un mot.
+Si le mot est "JavaScript", affiche "Bravo !", sinon affiche "Essaie encore !".
+
+Exercice 5 : Note scolaire
+
+Demande une note sur 20.
+
+Si la note est >= 16 → "Excellent"
+
+Si la note est >= 10 et < 16 → "Bien"
+
+Sinon → "Échec"
+
+Exercice 6 : Nombre positif, négatif ou nul
+
+Demande un nombre et affiche :
+
+"Positif" si > 0
+
+"Négatif" si < 0
+
+"Zéro" si = 0
+
+Exercice 7 : Connexion simulée
+
+Crée deux variables username = "admin" et password = "1234".
+Demande à l’utilisateur son identifiant et son mot de passe.
+
+Si les deux correspondent → "Connexion réussie"
+
+Sinon → "Identifiants incorrects".
+
+🔴 Niveau Expert (3 exercices)
+Exercice 8 : Calculatrice basique
+
+Demande deux nombres et une opération (+, -, *, /).
+Utilise des conditions pour effectuer le calcul et afficher le résultat.
+
+Exercice 9 : Année bissextile
+
+Demande une année à l’utilisateur.
+Affiche si elle est bissextile ou non.
+👉 Indice : une année est bissextile si divisible par 4 et (non divisible par 100 ou divisible par 400).
+
+Exercice 10 : Feu tricolore
+
+Demande une couleur (rouge, orange, vert).
+Affiche :
+
+"Arrête" si rouge
+
+"Prêt à partir" si orange
+
+"Passe" si vert
+
+Sinon "Couleur inconnue".
