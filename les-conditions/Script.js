@@ -68,7 +68,7 @@ if (nombre > 0) {
 }*/
 
 
-let username = "admin"
+/*let username = "admin"
 let password = "1234"
 
 let connexion1 = prompt("entrez votre username")
@@ -78,4 +78,50 @@ if (username != "admin" && password != "1234"){
     console.log("connexion réussie") 
 } else{
     console.log("réessayez")
+}*/
+
+/*let n1 = prompt("donne un nombre");
+let n2 = prompt("donne un autre nombre");
+let op = prompt("donne une opération (+, -, *, /)");
+
+n1 = parseFloat(n1);
+n2 = parseFloat(n2);
+
+if (isNaN(n1) || isNaN(n2)) {
+    console.log("erreur : tu dois entrer des nombres valides");
+} else if (op === "+") {
+    console.log(n1 + n2);
+} else if (op === "-") {
+    console.log(n1 - n2);
+} else if (op === "*") {
+    console.log(n1 * n2);
+} else if (op === "/") {
+    if (n2 === 0) {
+        console.log("erreur : division par zéro");
+    } else {
+        console.log(n1 / n2);
+    }
+} else {
+    console.log("erreur : opération inconnue");
+}*/
+// La fonction parseFloat convertit une chaîne de caractères en un nombre à virgule flottante (nombre décimal).
+
+
+let couleur = prompt("donne une couleur");
+
+let couleur1 = "rouge";
+let couleur2 = "orange";
+let couleur3 = "vert";
+
+// On convertit la saisie en minuscules
+couleur = couleur.toLowerCase();
+
+if (couleur === couleur1) {
+    console.log("Arret");
+} else if (couleur === couleur2) {
+    console.log("prêt à partir");
+} else if (couleur === couleur3) {
+    console.log("C'est parti");
+} else {
+    console.log("erreur");
 }

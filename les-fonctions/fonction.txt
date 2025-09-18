@@ -1,0 +1,38 @@
+Crée une fonction bonjour() qui affiche "Bonjour !".
+
+Exercice 2 : Fonction avec paramètre
+
+👉 Crée une fonction saluer(nom) qui prend un prénom et affiche :
+Bonjour <nom>
+
+Exercice 3 : Addition
+
+👉 Crée une fonction addition(a, b) qui retourne la somme de a et b.
+
+Exercice 4 : Carré d’un nombre
+
+👉 Crée une fonction carre(x) qui retourne le carré du nombre.
+
+Exercice 5 : Aire d’un cercle
+
+👉 Crée une fonction aireCercle(rayon) qui retourne l’aire d’un cercle (π * r²).
+
+Exercice 6 : Nombre maximum
+
+👉 Crée une fonction max(a, b) qui retourne le plus grand des deux.
+
+Exercice 7 : Factorielle
+
+👉 Crée une fonction factorielle(n) qui calcule la factorielle (n!).
+
+Exercice 8 : Palindrome
+
+👉 Crée une fonction estPalindrome(mot) qui retourne true si le mot est un palindrome, sinon false.
+
+Exercice 9 : Fonction fléchée
+
+👉 Réécris une fonction multiplier(a, b) avec une fonction fléchée.
+
+Exercice 10 : Compteur avec fermeture (closure)
+
+👉 Crée une fonction compteur() qui retourne une fonction interne permettant d’incrémenter un compteur à chaque appel.
